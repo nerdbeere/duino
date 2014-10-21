@@ -10,7 +10,7 @@
   ],
   "name": "duino",
   "description": "Arduino framework for mad scientists",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "keywords": [
     "arduino",
     "serial",
